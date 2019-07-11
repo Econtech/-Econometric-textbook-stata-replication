@@ -8,9 +8,12 @@ Book Author: Jeffrey M. Wooldridge
 
 ### Dataset 
 
-Please download dataset from [Boston college](http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html) and save them into your stata working directory, then whenever you want to use the data, just type `use dataset_name`, such as `use WAGE1`
+Please download dataset from [Boston college](http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html) and save them into your stata working directory, to find your stata working directory, please type `pwd` in stata.
+
+Then whenever you want to use the data, just type `use dataset_name`, such as `use WAGE1`
 
 Or else, you can install `bcuse` command in stata using `ssc install bcuse`
+
 Then you can use the dataset directly from the website above such as `bcuse WAGE1`. For more details, please see `help bcuse`
 
 ### Replication files for each chapter
