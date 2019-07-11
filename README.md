@@ -4,6 +4,8 @@ Hello everyone, I will replicate results in some well-known textbooks using stat
 
 ## Introductory Econometrics: A Modern Approach, 6th Edition
 
+Author: Jeffrey M. Wooldridge 
+
 ### Dataset 
 
 Please download dataset from http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html and save them into your stata working directory, then whenever you want to use the data, just type `use dataset_name`, such as `use WAGE1`
