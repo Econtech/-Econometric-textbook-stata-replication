@@ -4,7 +4,7 @@ Hello everyone, I will replicate results in some well-known textbooks using stat
 
 ## Introductory Econometrics: A Modern Approach, 6th Edition
 
-Author: Jeffrey M. Wooldridge 
+Book Author: Jeffrey M. Wooldridge 
 
 ### Dataset 
 
