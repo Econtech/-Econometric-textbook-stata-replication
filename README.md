@@ -16,7 +16,7 @@ Or else, you can install `bcuse` command in stata using `ssc install bcuse`
 
 Then you can use the dataset directly from the website above such as `bcuse WAGE1`. For more details, please see `help bcuse`
 
-### Replication files for each chapter
+### Replication files 
 
 I referenced previous replication work by [Boston college](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html)
 
