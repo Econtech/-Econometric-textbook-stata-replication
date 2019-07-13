@@ -22,5 +22,5 @@ I referenced previous replication work by [Boston college](http://fmwww.bc.edu/g
 
 However, this work is for 1st and 2nd edition of the book, and we have Stata 16 now, so I update previous work and try to replicate the results in the new book. From chapter 2 to 18, each chapter contains about nine to ten examples.
 
-My replication work is updated in [Introductory Econometrics: A Modern Approach](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Introductory%20Econometrics%20A%20Modern%20Approach) and feel free to try the do files and correct my potential errors among them.  
+My replication work is updated in [Introductory Econometrics: A Modern Approach](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Introductory%20Econometrics%20A%20Modern%20Approach). Please feel free to try the do files and correct my potential errors among them.  
 
