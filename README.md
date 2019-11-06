@@ -7,7 +7,7 @@ Book Author: Joshua D. Angrist and Jörn-Steffen Pischke
 
 
 ### Dataset and replication files
-Most of the datasets and some of the replication programs come from MHE Data Archive(http://economics.mit.edu/faculty/angrist/data1/mhe) and Angrist Data Archive(http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of vikjam (https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find some mistakes and update them in my replications.
+Most of the datasets and some of the replication programs come from [MHE Data Archive](http://economics.mit.edu/faculty/angrist/data1/mhe) and [Angrist Data Archive](http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of [vikjam] (https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find some mistakes and update them in my replications.
 
 #### Chapters
 
