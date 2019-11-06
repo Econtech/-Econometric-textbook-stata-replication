@@ -4,16 +4,22 @@ Hello everyone, I've been replicating results in some well-known econometrics te
 
 ## [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
 Book Author: Joshua D. Angrist and Jörn-Steffen Pischke 
-![Book](https://github.com/Econtech/-Econometric-textbook-stata-replication/blob/master/Introductory%20Econometrics%20A%20Modern%20Approach/book%20picture.jpg)
 
 ### Dataset and replication files
 Most of the datasets and some of the replication programs come from [MHE Data Archive](http://economics.mit.edu/faculty/angrist/data1/mhe) and [Angrist Data Archive](http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of [vikjam](https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find some mistakes and update them in my replications.
 
 #### Chapters
-
-
-
-
+I. Preliminaries
+1. Questions about Questions
+2. The Experimental Ideal
+II. The Core
+3. Making Regression Make Sense
+4. Instrumental Variables in Action: Sometimes You Get What You Need
+5. Parallel Worlds: Fixed Effects, Differences-in-Differences, and Panel Data
+III. Extensions
+6. Getting a Little Jumpy: Regression Discontinuity Designs
+7. Quantile Regression
+8. Nonstandard Standard Error Issues
 
 
 
