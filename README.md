@@ -1,6 +1,6 @@
 # Econometric-textbook-stata-replication
 
-Hello everyone, I've been replicating results in some well-known econometrics textbooks using stata here to help you learn basic to advance stata programming in econometric. 
+Hello everyone, I've been replicating figures and tables in some well-known econometrics textbooks using stata here to help you learn basic to advance stata programming in econometric. 
 
 ## [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
 Book Author: Joshua D. Angrist and Jörn-Steffen Pischke 
@@ -9,18 +9,17 @@ Book Author: Joshua D. Angrist and Jörn-Steffen Pischke
 Most of the datasets and some of the replication programs come from [MHE Data Archive](http://economics.mit.edu/faculty/angrist/data1/mhe) and [Angrist Data Archive](http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of [vikjam](https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find some mistakes and update them in my replications.
 
 #### Chapters
-I. Preliminaries
-1. Questions about Questions
-2. The Experimental Ideal
-II. The Core
-3. Making Regression Make Sense
-4. Instrumental Variables in Action: Sometimes You Get What You Need
-5. Parallel Worlds: Fixed Effects, Differences-in-Differences, and Panel Data
-III. Extensions
-6. Getting a Little Jumpy: Regression Discontinuity Designs
-7. Quantile Regression
-8. Nonstandard Standard Error Issues
-
+##### Preliminaries
+1. Questions about Questions (No figure or table)
+2. [The Experimental Ideal](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/CP2)
+##### The Core
+3. [Making Regression Make Sense](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp3)
+4. [Instrumental Variables in Action: Sometimes You Get What You Need](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp4)
+5. [Parallel Worlds: Fixed Effects, Differences-in-Differences, and Panel Data](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp5)
+##### Extensions
+6. [Getting a Little Jumpy: Regression Discontinuity Designs](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp6)
+7. [Quantile Regression](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp7)
+8. [Nonstandard Standard Error Issues](https://github.com/Econtech/-Econometric-textbook-stata-replication/tree/master/Mostly%20Harmless%20Econometrics/cp8)
 
 
 ## [Introductory Econometrics: A Modern Approach, 6th Edition](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107/)
