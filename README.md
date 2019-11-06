@@ -1,12 +1,12 @@
 # Econometric-textbook-stata-replication
 
-Hello everyone, I've been replicating figures and tables in some well-known econometrics textbooks using stata here to help you learn basic to advance stata programming in econometric. 
+Hello everyone, I've been replicating figures and tables in some well-known econometrics textbooks using stata here. This is a wonderful practice for me and I hope my files can help you learn econometrics with stata.
 
 ## [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
 Book Author: Joshua D. Angrist and Jörn-Steffen Pischke 
 
 ### Dataset and replication files
-Most of the datasets and some of the replication programs come from [MHE Data Archive](http://economics.mit.edu/faculty/angrist/data1/mhe) and [Angrist Data Archive](http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of [vikjam](https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find mistakes and update them in my replications.
+Most of the datasets and some of the replication programs come from [MHE Data Archive](http://economics.mit.edu/faculty/angrist/data1/mhe) and [Angrist Data Archive](http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of [vikjam](https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find mistakes and update them in my replication. My replication is not complete either but I'll try my best to fill the gap along my learning path.
 
 #### Chapters
 ##### Preliminaries
