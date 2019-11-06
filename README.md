@@ -1,12 +1,26 @@
 # Econometric-textbook-stata-replication
 
-Hello everyone, I will replicate results in some well-known textbooks using stata in this repository to help you learn basic stata programming in econometric. These textbooks are amazing for us to taste the secret sauce of econometrics. 
+Hello everyone, I've been replicating results in some well-known econometrics textbooks using stata here to help you learn basic to advance stata programming in econometric. 
 
-## Introductory Econometrics: A Modern Approach, 6th Edition
+## [Mostly Harmless Econometrics](http://www.mostlyharmlesseconometrics.com/)
+Book Author: Joshua D. Angrist and Jörn-Steffen Pischke 
 
+
+### Dataset and replication files
+Most of the datasets and some of the replication programs come from MHE Data Archive(http://economics.mit.edu/faculty/angrist/data1/mhe) and Angrist Data Archive(http://economics.mit.edu/faculty/angrist/data1/data). I also reference the replication files of vikjam (https://github.com/vikjam/mostly-harmless-replication). His work is amazing but I still find some mistakes and update them in my replications.
+
+#### Chapters
+
+
+
+
+
+
+
+## [Introductory Econometrics: A Modern Approach, 6th Edition](https://www.cengage.com/c/introductory-econometrics-a-modern-approach-6e-wooldridge/9781305270107/)
 Book Author: Jeffrey M. Wooldridge 
 
-### Dataset 
+### Dataset and replication files
 
 Please download dataset from [Boston college](http://fmwww.bc.edu/ec-p/data/wooldridge/datasets.list.html) and save them into your stata working directory (To find your stata working directory, please type `pwd` in stata)
 
@@ -15,8 +29,6 @@ Then whenever you want to use the data, just type `use dataset_name`, such as `u
 Or else, you can install `bcuse` command in stata using `ssc install bcuse`
 
 Then you can use the dataset directly from the website above such as `bcuse WAGE1`. For more details, please see `help bcuse`
-
-### Replication files 
 
 I referenced previous replication work by [Boston college](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html)
 
